@@ -1,12 +1,12 @@
 {
-  "name": "effi-s botz",
+  "name": "Effi-S-Botz",
   "version": "4.5.0",
   "description": "A WhatsApp Bot Created By ArslanMD Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name effi-s botz",
-    "stop": "pm2 stop effi-s botz",
-    "restart": "pm2 restart effi-s botz"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Effi-S-Botz",
+    "stop": "pm2 stop Effi-S-Botz",
+    "restart": "pm2 restart Effi-S-Botz"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
